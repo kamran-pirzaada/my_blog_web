@@ -1,0 +1,8 @@
+first of all make folder like frontend side or client
+mkdir client
+go to that folder
+cd client
+install vite using command
+npm create vite@latest
+select project name
+install tailwind using vite whoo done 
